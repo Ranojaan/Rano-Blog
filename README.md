@@ -13,4 +13,4 @@ Begin your blogging journey with The Rano Blog and share your thoughts with the 
 
 
 ![1](https://github.com/Ranojaan/Rano-Blog/assets/50835745/190157ff-763c-42d5-8b46-e05825f330c4)
-![3](https://github.com/Ranojaan/Rano-Blog/assets/50835745/39447724-ffdd-499b-b102-84115aa92746)
+
